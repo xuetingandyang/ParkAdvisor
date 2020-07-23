@@ -1,13 +1,12 @@
 # ParkAdvisor
 
-![Landing page](./pictures/landing.png)
-![Home page](./pictures/home.png)
-![Park page](./pictures/park.png)
-![Comment page](./pictures/comment.png)
-
 [Try ParkAdvisor App website!](https://parkadvisor-shirleyxting.herokuapp.com/)
 
-ParkAdvisor is a website where users can create and review national parks all over the world. In order to review or create a park, you must have an account. 
+![Landing page](./pictures/landing.png)
+![Home page](./pictures/home.png)
+
+
+[ParkAdvisor](https://parkadvisor-shirleyxting.herokuapp.com/) is a website where users can create and review national parks all over the world. In order to review or create a park, you must have an account. 
 
 This RESTful project was created using Node.js, Express, MongoDB, and Bootstrap. Passport.js was used to handle authentication.  
 
